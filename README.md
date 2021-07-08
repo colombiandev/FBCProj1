@@ -4,11 +4,17 @@ For this project we wanted to look at how different investment strategies have p
 
 ## Questions Asked
 The questions that we wanted to ask of the data were the following:
+
 §	How do each of the ETFs for each of the strategies correlate to each other?
+
 §	How have the returns for each of the ETFs compared to each other?  
+
 §	Which has the best return over the past 5 years? And the worst?
+
 §	How risky is each strategy?
+
 §	How does the risk compare to the returns?
+
 §	How does the volume traded look compared to the returns that have been seen over the past 5 years?
 
 ## The Data

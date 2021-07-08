@@ -36,12 +36,9 @@ After that I decided to look at the volume traded of each of the ETFs to see wha
 For our conclusions we will bring it back to the questions that we wanted to ask of the data when we started the project which were the following: 
 
   
-•	How do each of the ETFs for each of the strategies correlate to each other?   
-The correlation of the different ETFs for each strategy came out to be pretty much just as I expected and hoped they would.  The growth ETFs all had 
-
 •	How have the returns for each of the ETFs compared to each other?  
 •	Which has the best return over the past 5 years? And the worst?
 •	How risky is each strategy?
 •	How does the risk compare to the returns?
-•	How does the volume traded look compared to the returns that have been seen over the past 5 years?
+
 

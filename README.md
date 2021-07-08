@@ -37,8 +37,11 @@ For our conclusions we will bring it back to the questions that we wanted to ask
 
   
 •	How have the returns for each of the ETFs compared to each other?  
+  The higher the risk, the higher the return.
 •	Which has the best return over the past 5 years? And the worst?
+  The best return cummulatively can be seen from the small cap, and high volatility and high grwoth. Lowest return was seen in treasury ETFs.
 •	How risky is each strategy?
+  Comparing Standard Deviation Numbers.
 •	How does the risk compare to the returns?
-
+  Comparing Sharpe Ratios
 
